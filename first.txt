@@ -1,1 +1,3 @@
 training of git
+git add.
+git commit
