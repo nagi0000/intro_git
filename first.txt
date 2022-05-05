@@ -3,3 +3,4 @@ git add.
 git commit
 remove
 git stats
+diff
